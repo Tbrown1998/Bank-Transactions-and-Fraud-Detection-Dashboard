@@ -97,11 +97,11 @@ Hi, I'm Oluwatosin Amosu Bolaji, a Data Analyst skilled in SQL, Power BI, and Ex
 - **🔹 Key Skills:** Data Analysis | SQL Queries | Power BI Dashboards | Data Cleaning | Reporting
 - **🔹 Passionate About:** Data storytelling, problem-solving, and continuous learning
 
-## 📬 Contact & Connect
-- **📩 Email**: your-email@example.com  
-- **💼 LinkedIn**: [linkedin.com/in/yourprofile](#)  
-- **🐦 Twitter/X**: [@yourhandle](#)  
-- **🌍 Portfolio**: [your-portfolio-link.com](#)  
+#### 🚀 **Always learning and improving—driven by curiosity and a passion for analytics.**  
 
----
-📌 **If you found this project useful, please give it a ⭐!**  
+### 📫 **Let’s connect!**  
+- 📩 oluwabolaji60@gmail.com
+- 🔗 : [LinkedIn](https://www.linkedin.com/in/oluwatosin-amosu-722b88141)
+- 🌐 : [My Portfolio](https://www.datascienceportfol.io/oluwabolaji60) 
+- 𝕏 : [Twitter/X](https://x.com/thee_oluwatosin?s=21&t=EqoeQVdQd038wlSUzAtQzw)
+- 🔗 : [Medium](https://medium.com/@oluwabolaji60)
