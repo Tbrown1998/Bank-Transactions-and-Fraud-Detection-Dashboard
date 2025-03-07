@@ -69,12 +69,12 @@ The dataset contains **bank transaction records**, including both fraudulent and
 
 ![Screenshot (83)](https://github.com/user-attachments/assets/e5cf58d0-af92-40d2-b75d-16201bc72378)
 
-
-📌 **Live Dashboard Link**: [View Dashboard](https://app.powerbi.com/reportEmbed?reportId=YOUR_REPORT_ID)  
-
  ### Explore the Interactive Dashboard**
 - Use slicers to **filter transactions by date, type, and fraud status**.
 - Hover over visuals to **view transaction trends and fraud patterns**.
+
+📌 **Live Dashboard Link**: Click to [View Live Interactive Dashboard](https://app.powerbi.com/reportEmbed?reportId=YOUR_REPORT_ID)  
+
 
 ## 📈 Key Insights from Analysis
 ✅ **Fraudulent transactions are most common in Transfers.**  
